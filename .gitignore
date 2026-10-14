@@ -68,3 +68,7 @@ local.properties
 
 # AGENTS
 .pi/SYSTEM.md
+
+examples/whisper.android/app/src/main/assets/models/*.bin
+examples/whisper.android/hs_err_pid*.log
+examples/whisper.android/replay_pid*.log
